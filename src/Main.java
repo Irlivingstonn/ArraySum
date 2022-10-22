@@ -9,8 +9,10 @@ import java.util.Scanner;
 
 // Main Project
 public class Main {
+
     // Main Method
     public static void main(String[] args) {
+        System.out.println("hello");
         // ------------ DECLARING ------------
         Scanner scanner = new Scanner(System.in);
 
